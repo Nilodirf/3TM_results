@@ -1,0 +1,24 @@
+# time of execution: 2021-05-24 17:31:12
+#model:['m3tm', 'm3tm']
+### simulation parameters ###
+# timestep dt=1e-16[s]
+# initial temperature:235.0[K]
+# initial magnetization [x,y,z]:['[0.0, 0.0, 0.9863]', '[0.0, 0.0, -0.612]']
+### sample paramters ###
+# Sample: ['Iron', 'Gadolinium']
+# S=[2, 3.5]
+# mu_at=[2.2, 7.5][mu_B]
+# nz=[ 5 15]
+# dx=[2.856e-10, 3e-10]	dy=[2.856e-10, 3e-10]	dz=[2.856e-10, 3e-10]	[m]
+# atoms per unit cell:[2, 2]
+# asf=[0.035, 0.01]
+# Jint=-9.439036996666667e-21[J]
+# Hex=1.8548000000000003e-24[J]
+# Tc=[1041, 293][K]
+# T_Deb=[396, 1][K]
+### pulse paramters ###
+# peak power:0.0[W/m^3]
+# sigma=1.8e-14[s]
+# delay=1e-11[s]
+#############################
+# time [ps]	magnetization	T_e [K]	T_p [K]	E_tot [J/m^3]	E_el [J/m^3]	E_ph [J/m^3]	E_spin [J/m^3]

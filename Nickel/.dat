@@ -1,0 +1,23 @@
+# time of execution: 2021-03-03 16:49:59
+#model:m3tm
+### simulation parameters ###
+# timestep dt=1e-16[s]
+# initial temperature:295.0[K]
+# initial magnetization [x,y,z]:[0.0, 0.0, 0.96925]
+### sample paramters ###
+# Sample: Nickel
+# S=0.5
+# mu_at=0.616[mu_B]
+# nx=1	ny=1	nz=1
+# dx=3.524e-10	dy=3.524e-10	dz=3.524e-10	[m]
+# atoms per unit cell:4
+# asf=0.15
+# gep, cv_el, cv_ph: DFT-interpolation
+# Tc=633[K]
+# T_Deb=450[K]
+### pulse paramters ###
+# peak power:7e+21[W/m^3]
+# sigma=2.4e-14[s]
+# delay=1e-11[s]
+#############################
+# time [ps]	magnetization	T_e [K]	T_p [K]	E_tot [J/m^3]	E_el [J/m^3]	E_ph [J/m^3]	E_spin [J/m^3]

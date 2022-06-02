@@ -1,0 +1,22 @@
+# time of execution: 2021-05-05 14:20:11
+#model:['m3tm', 'arbspin']
+### simulation parameters ###
+# timestep dt=1e-16[s]
+# initial temperature:295.0[K]
+# initial magnetization [x,y,z]:['[0.0, 0.0, 0.96925]', '[0.0, 0.0, 0.9863]']
+### sample paramters ###
+# Sample: ['Nickel', 'Iron']
+# S=[0.5, 2]
+# mu_at=[0.616, 2.2][mu_B]
+# nz=[1, 1]
+# dx=[3.524e-10, 2.856e-10]	dy=[3.524e-10, 2.856e-10]	dz=[3.524e-10, 2.856e-10]	[m]
+# atoms per unit cell:[4, 2]
+# asf=[0.05, 0.035]
+# Tc=[633, 1041][K]
+# T_Deb=[360, 396][K]
+### pulse paramters ###
+# peak power:2.1e+22[W/m^3]
+# sigma=1.8e-14[s]
+# delay=1e-11[s]
+#############################
+# time [ps]	magnetization	T_e [K]	T_p [K]	E_tot [J/m^3]	E_el [J/m^3]	E_ph [J/m^3]	E_spin [J/m^3]
